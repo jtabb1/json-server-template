@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "id": 9,
+      "name": "Mirage",
+      "image": "https://tfwiki.net/mediawiki/images2/archive/a/a7/20200716064229%21G1Mirage_toy.jpg",
+      "likes": 10
     }
   ]
 }
